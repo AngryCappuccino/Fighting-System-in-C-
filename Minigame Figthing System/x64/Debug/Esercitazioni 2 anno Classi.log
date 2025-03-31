@@ -1,0 +1,6 @@
+﻿  Character.cpp
+  Enemy.cpp
+  Generating Code...
+D:\ITS\Esercitazioni C++\Minigame Fighting System Portfolio\Esercitazioni 2 anno Classi\Enemy.cpp(12,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\ITS\Esercitazioni C++\Minigame Fighting System Portfolio\Esercitazioni 2 anno Classi\Enemy.cpp(13,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Esercitazioni 2 anno Classi.vcxproj -> D:\ITS\Esercitazioni C++\Minigame Fighting System Portfolio\x64\Debug\Esercitazioni 2 anno Classi.exe
